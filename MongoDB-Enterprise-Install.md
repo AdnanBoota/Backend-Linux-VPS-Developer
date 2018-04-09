@@ -1,5 +1,7 @@
 # Install MongoDB 3.4 Enterprise Edition on an Ubuntu 16 Server LTS 
 
+![](07-mongodb-enterprise.png)
+
 ### Overview
 1. Install MongoDB Enterprise
 2. Create an Admin User with the privileges to manage users and roles.
